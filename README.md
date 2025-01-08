@@ -85,3 +85,10 @@ project_root/
 ## Lisans
 ----------
 Bu proje MIT Lisansı ile lisanslanmıştır. Lisans detayları için `LICENSE` dosyasını inceleyebilirsiniz.
+
+## YouTube Videosu
+
+Projeyle ilgili daha fazla bilgi ve video için aşağıdaki bağlantıya göz atabilirsiniz:  
+[Envanter Yönetim Sistemi Tanıtımı](https://youtu.be/O9AJf1UyI9w)
+
+
